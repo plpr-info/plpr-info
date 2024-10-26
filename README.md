@@ -1,2 +1,2 @@
-# plpr-info
-Information transfer and Chinese translation of Polapori.
+# Polapori资料搬运站
+Polapori资料搬运及中文翻译
